@@ -23,21 +23,18 @@
 ### Research
 #### PMI Charts
 
+Youtube
+|Positive|Minus|Implication|
+|:------:|:---:|:---------:|
+|Social  |     |           |
 
+
+NY Times
 |Positive|Minus|Implication|
 |:------:|:---:|:---------:|
 |        |     |           |
-|        |     |           |
-|        |     |           |
 
+Wikipedia
 |Positive|Minus|Implication|
 |:------:|:---:|:---------:|
-|        |     |           |
-|        |     |           |
-|        |     |           |
-
-|Positive|Minus|Implication|
-|:------:|:---:|:---------:|
-|        |     |           |
-|        |     |           |
 |        |     |           |

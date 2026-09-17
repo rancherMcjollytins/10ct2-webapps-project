@@ -1,0 +1,57 @@
+html {
+    background-color: rgb(0, 0, 34);
+    font-family: 'Trebuchet MS';
+}
+
+h1 {
+    color: aliceblue;
+    -webkit-text-stroke: 1px;
+    -webkit-text-stroke-color: rgb(59, 119, 172);
+    text-align: center;
+    animation-name: Opener;
+    animation-duration: 3s;
+}
+
+.index_grid {
+    .grid_container {
+        display: inline-grid;
+        grid-template-columns: 2fr 1fr 1fr;
+        padding: 10px;
+        grid-template-rows: 100px 1fr;
+        width: fit-content;
+    }
+
+    .item {
+        background-color: antiquewhite;
+        border: 1px solid black;
+        padding: 15px;
+        justify-content: center;
+        align-content: center;
+        text-align: center;
+
+    }
+
+    .item2 {
+        background-color: antiquewhite;
+        border: 1px solid black;
+        padding-left: 15px;
+        justify-content: center;
+        align-content: center;
+        text-align: left;
+        grid-column: span 1;
+    }
+}
+.item3 {
+    background-color: antiquewhite;
+    border: 1px solid black;    
+    padding: 20px;
+    justify-content: center;
+    align-content: center;
+    text-align: left;
+    grid-column: span 2;
+}
+
+@keyframes Opener {
+    from {opacity: 0%; top: 100px}
+    to {opacity: 100%; top: 0px}
+}

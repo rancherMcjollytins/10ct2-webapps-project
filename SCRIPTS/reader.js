@@ -51,6 +51,7 @@ function readCVS(CVS_data)
         row.appendChild(Postcd);
         row.appendChild(CharWebsite);
 
+        console.log(row)
         table.appendChild(row)
     }
 }

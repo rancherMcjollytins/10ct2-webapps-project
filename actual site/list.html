@@ -7,7 +7,6 @@
         <!--href="", when search out of the folder, add a '..\'. each one signals one level up the path. thanks Google and Gemini-->
         <link rel="icon" type="image/png" href="..\image_assets\logov3.png">
         <link rel=stylesheet href="stylesheet.css">
-        <script src="..\SCRIPTS\reader.js" defer></script>
     </head>
     <body>   
         <nav>
@@ -17,23 +16,23 @@
                 <li><a href="about + disclaimers.html">About</a></li>
             </ul>
         </nav>
-            
+        <script src="..\SCRIPTS\reader.js" defer></script>  
         <div class="header_area">
             <h1 id="primary_header">Find A Charity</h1>
-            <table id="main_table">
-                <tr>
-                    <th>ABN</th>
-                    <th>Legal Name</th>
-                    <th>Other Organisational Names</th>
-                    <th>Address Type</th>
-                    <th>Address Line 1</th>
-                    <th>Town/City</th>
-                    <th>State</th>
-                    <th>Postcode</th>
-                    <th>Website</th>
-                </tr>
-                
-            </table>
         </div>    
+         <table style="border-width: 1px; border: solid; border-color: black;">
+                <tr>
+                    <th id="abn-value">ABN</th>
+                    <th id="legal-name">Legal Name</th>
+                    <th id="other-names">Other Organisational Names</th>
+                    <th id="address-type">Address Type</th>
+                    <th id="address-line">Address Line 1</th>
+                    <th id="town-city">Town/City</th>
+                    <th id="state">State</th>
+                    <th id="postcode">Postcode</th>
+                    <th id="website">Website</th>
+                </tr>
+                <tbody id="main_table"></tbody>   
+            </table>
     </body>
 </html>

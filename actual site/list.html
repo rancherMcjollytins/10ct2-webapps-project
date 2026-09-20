@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en-AU">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport", content="width=device-width" initial-scale="1.0">
+        <title>Charities4Dummies</title>
+        <!--href="", when search out of the folder, add a '..\'. each one signals one level up the path. thanks Google and Gemini-->
+        <link rel="icon" type="image/png" href="..\image_assets\logov3.png">
+        <link rel=stylesheet href="stylesheet.css">
+    </head>
+    <body>   
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="list.html">Charities</a></li>
+                <li><a href="about + disclaimers.html">About</a></li>
+            </ul>
+        </nav>
+        <script src="..\SCRIPTS\reader.js" defer></script>  
+        <div class="header_area">
+            <h1 id="primary_header">Find A Charity</h1>
+        </div>    
+         <table style="border-width: 1px; border: solid; border-color: black;">
+                <tr>
+                    <th id="abn-value">ABN</th>
+                    <th id="legal-name">Legal Name</th>
+                    <th id="other-names">Other Organisational Names</th>
+                    <th id="address-type">Address Type</th>
+                    <th id="address-line">Address Line 1</th>
+                    <th id="town-city">Town/City</th>
+                    <th id="state">State</th>
+                    <th id="postcode">Postcode</th>
+                    <th id="website">Website</th>
+                </tr>
+                <tbody id="main_table"></tbody>   
+            </table>
+    </body>
+</html>

@@ -40,5 +40,10 @@ Wikipedia
 |Large online library with pages on multiple topics, with utilities for research and editing. Presence in multiple languages, as well as tools. Wikipedia can be used by students, adults, and kids (**Simple Wikipedia**) for research on history, science, computing, networking, mathematics and more. Sources are cited at the bottom of articles.|Content can be edited by many users, and possibly anonymously, which can allow malicious actors to configure information to spread false truths and mislead other users. This is counteracted through security/editing measures on *high-profile* and vandalised pages and community volunteer editors.|           |
 
 #### Secondary Research
-AIPAC
 ACNC (Australian Charities and Not-for-profits Commission)
+The ACNC (Australian Charities and Not-for-profits Commission) is the official government commission that specialises in the registration, monitoring/auditing of, and overall management over charities in Australia. The official ACNC website is a useful site for both charities and public users, with features relating to registration, documentation, and public-access data and statistics. 
+
+The ACNC is an official site of the Australian Government, and is thus a reputable source. It is a primary outlet for gathering data on local charity and national charity registration laws.
+
+UN Humanitarian Aid
+The United Nations Humanitarian aid program is a multinational program that aims to provide aid to people in need (e.g. casualties of war)

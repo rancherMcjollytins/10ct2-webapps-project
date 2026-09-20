@@ -43,8 +43,7 @@ Wikipedia
 ACNC (Australian Charities and Not-for-profits Commission)
 The ACNC (Australian Charities and Not-for-profits Commission) is the official government commission that specialises in the registration, monitoring/auditing of, and overall management over charities in Australia. The official ACNC website is a useful site for both charities and public users, with features relating to registration, documentation, and public-access data and statistics. 
 
-The ACNC site allows users to filter and search through charities and other similar organisations based on specific criteria, allowing for in depth search and ease of access towards lesser-known organisations.
+The ACNC is an official site of the Australian Government, and is thus a reputable source. It is a primary outlet for gathering data on local charity and national charity registration laws.
 
-The ACNC site allows users to verify the integrity of charities and non-for-profits/donations to ensure donations and assistance go towards the best charities that fit the users specific criteria.
-
-        
+UN Humanitarian Aid
+The United Nations Humanitarian aid program is a multinational program that aims to provide aid to people in need (e.g. casualties of war)

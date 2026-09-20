@@ -46,4 +46,7 @@ The ACNC (Australian Charities and Not-for-profits Commission) is the official g
 The ACNC is an official site of the Australian Government, and is thus a reputable source. It is a primary outlet for gathering data on local charity and national charity registration laws.
 
 UN Humanitarian Aid
-The United Nations Humanitarian aid program is a multinational program that aims to provide aid to people in need (e.g. casualties of war)
+The United Nations Humanitarian aid program is a multinational program that aims to provide aid to people in need (e.g. casualties of war).
+
+My final product was visually up-to-par with what I intended, but more importantly, was unfortunately non-functional, as I could not figure out how to implement the Javascript file reader.
+To improve in the future, my most important aspects to cover would be time management, as I left the long and difficult development task till last minute, and thus could not spend sufficient time bugfixing and comprehending javascript and making the web-app functional.
